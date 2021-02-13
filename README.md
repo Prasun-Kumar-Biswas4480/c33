@@ -1,7 +1,3 @@
-
-## Use basic p5.play-boilerplate
-Boiler plate for p5.play : https://github.com/vishnupriya-whitehatjr/BasicLibFiles
-
-## Please refer to code notes for explanation.
-
-### Output Link : https://vishnupriya-whitehatjr.github.io/c33-PlinkoFinal/index.html
+Plinko with scores
+link below:-
+https://prasun-kumar-biswas4480.github.io/c33/
